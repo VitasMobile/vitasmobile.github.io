@@ -1,0 +1,41 @@
+body {
+	background: #000;
+	color: white;
+	font-family: 'Exo 2', sans-serif;
+}
+
+#wrapper {
+	margin: 20px auto;
+	width: 400px;
+}
+
+input {
+	margin-top: 20px;
+	text-align: center;
+}
+button {
+	margin: 2px;
+}
+
+.div-center {
+	text-align: center;
+}
+
+#commandPanel {
+	text-align: center;
+	margin-top: 20px;
+	display: table;
+	width: 100%;
+}
+#commandPanel button {
+	display: table-cell;
+	width: 45%;
+}
+
+.top_btn_menu {
+	display: inline-flex;
+	padding-bottom: 10px;
+}
+#text {
+	text-align: justify;
+}
